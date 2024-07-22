@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "four.lavalink.api.timelessnesses.me",
+        host: "lava-v4.ajieblogs.eu.org",
         port: 80,
-        password: "youshallnotpass",
+        password: "https://dsc.gg/ajidevserver",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
