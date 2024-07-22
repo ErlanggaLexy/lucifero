@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "lavalink.jompo.cloud",
-        port: 2333,
-        password: "jompo",
+        host: "four.lavalink.api.timelessnesses.me",
+        port: 80,
+        password: "youshallnotpass",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
