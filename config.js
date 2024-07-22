@@ -18,9 +18,9 @@ module.exports = {
   nodes: [
     {
         name: "Node #1",
-        host: "lava-v4.ajieblogs.eu.org",
-        port: 80,
-        password: "https://dsc.gg/ajidevserver",
+        host: "lavalink-legacy.jompo.cloud",
+        port: 2333,
+        password: "jompo",
         reconnectTimeout: 5000,
         reconnectTries: Infinity,
         secure: false
