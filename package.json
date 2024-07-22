@@ -1,5 +1,5 @@
 {
-  "name": "prime-music",
+  "name": "lucifero",
   "version": "1.0",
   "description": "Music Bot",
   "main": "index.js",
@@ -16,7 +16,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "GlaceYT",
+  "author": "Lextronaut",
   "license": "XX",
   "engines": {
     "node": "20.x"
