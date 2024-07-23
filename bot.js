@@ -74,4 +74,3 @@ app.listen(port, () => {
 });
 
 printWatermark();
-
