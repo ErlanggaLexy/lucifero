@@ -254,7 +254,7 @@ function initializePlayer(client) {
             await message.edit({ components: [disabledRow1, disabledRow2] }).catch(console.error);
         }
 
-        const autoplay = false;
+        const autoplay = true;
 
         if (autoplay) {
             player.autoplay(player);
