@@ -49,7 +49,7 @@ function initializePlayer(client) {
             .setTheme(config.musicardTheme)
             .setBrightness(50)
             .setThumbnail(track.info.thumbnail)
-            .setRequester(`${requester}`);
+            .setRequester(`${requester}` || 'Autoplay');
 
         const buffer = await card.build();
         const attachment = new AttachmentBuilder(buffer, { name: `musicard.png` });
